@@ -1,0 +1,41 @@
+Terms and Conditions for PuzzlePro
+Terms and Conditions for PuzzlePro
+
+Effective Date: 20-01-2025
+
+These Terms and Conditions ("Terms") govern your use of the PuzzlePro game ("the Game"), developed and operated by PuzzlePro.
+
+1. Acceptance of Terms
+By downloading, installing, and using PuzzlePro, you agree to comply with these Terms and Conditions. If you do not agree to these Terms, please do not use the Game.
+
+2. Use of the Game
+PuzzlePro is intended for personal, non-commercial use. You agree not to use the Game for any illegal or unauthorized purposes, and you agree to comply with all applicable laws, rules, and regulations.
+
+3. Permissions and Requirements
+PuzzlePro requires the following permissions to function properly:
+
+File Permissions: This permission is used to save and load game data locally. It does not grant access to personal data or other parts of your device.
+By using the Game, you agree to allow the Game to request these permissions.
+
+4. Ads
+PuzzlePro displays ads from third-party ad providers, including Google AdMob. These ads may collect non-personal information through cookies and device identifiers for the purpose of delivering tailored advertisements. You acknowledge and agree to the collection and use of data by these third-party ad providers in accordance with their respective privacy policies.
+
+For more information, refer to the privacy policy of the ad providers used in PuzzlePro:
+
+Google AdMob Privacy Policy
+5. No Warranty
+The Game is provided "as is" without any warranties or guarantees. We do not guarantee that the Game will be error-free or available at all times. We are not responsible for any damage to your device or data resulting from using the Game.
+
+6. Changes to Terms and Conditions
+We reserve the right to modify or update these Terms at any time. Any changes will be reflected in the updated version of this document, and the "Effective Date" will be revised. We recommend that you review this page periodically to stay informed of any updates.
+
+7. Limitation of Liability
+In no event shall PuzzlePro be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or data, whether in an action of contract, tort, or otherwise, arising out of or in connection with your use of the Game.
+
+8. Governing Law
+These Terms are governed by and construed in accordance with the laws of India. Any legal action or proceeding under these Terms shall be brought exclusively in the courts located in India.
+
+9. Contact Us
+If you have any questions or concerns about these Terms and Conditions, please contact us at:
+
+[vishnupardhu14@gmail.com]
